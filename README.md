@@ -23,5 +23,5 @@ A Telegram Bot That Accept Join Request In Private Groups
 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
 </p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Jeolpaul/AUTO-APPROVER-BOT"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/jnanesh1234/AUTO-APPROVER-BOTj"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
